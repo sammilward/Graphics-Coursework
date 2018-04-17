@@ -1,0 +1,38 @@
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 4
+number of vertices: 0
+ number of vertices: 4
+before clipping Polygon 0, Vertex 0 values:  374.11,  374.11,    0.002296
+before clipping Polygon 0, Vertex 1 values:  374.11,  213.37,    0.002296
+before clipping Polygon 0, Vertex 2 values:  534.85,  213.37,    0.002296
+before clipping Polygon 0, Vertex 3 values:  534.85,  374.11,    0.002296
+ number of vertices: 4
+before clipping Polygon 1, Vertex 0 values:  374.11,  374.11,    0.002296
+before clipping Polygon 1, Vertex 1 values:  370.19,  370.19,    0.001923
+before clipping Polygon 1, Vertex 2 values:  370.19,  235.58,    0.001923
+before clipping Polygon 1, Vertex 3 values:  374.11,  213.37,    0.002296
+ number of vertices: 4
+before clipping Polygon 6, Vertex 0 values:  350.00,  350.00,    0.002365
+before clipping Polygon 6, Vertex 1 values:  350.00,  184.43,    0.002365
+before clipping Polygon 6, Vertex 2 values:  515.57,  184.43,    0.002365
+before clipping Polygon 6, Vertex 3 values:  515.57,  350.00,    0.002365
+ number of vertices: 4
+before clipping Polygon 7, Vertex 0 values:  350.00,  350.00,    0.002365
+before clipping Polygon 7, Vertex 1 values:  350.00,  350.00,    0.001971
+before clipping Polygon 7, Vertex 2 values:  350.00,  212.03,    0.001971
+before clipping Polygon 7, Vertex 3 values:  350.00,  184.43,    0.002365
+ number of vertices: 4
+before clipping Polygon 8, Vertex 0 values:  350.00,  350.00,    0.002365
+before clipping Polygon 8, Vertex 1 values:  515.57,  350.00,    0.002365
+before clipping Polygon 8, Vertex 2 values:  487.97,  350.00,    0.001971
+before clipping Polygon 8, Vertex 3 values:  350.00,  350.00,    0.001971

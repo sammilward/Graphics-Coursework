@@ -1,0 +1,33 @@
+﻿  MyCode.cpp
+c:\users\samal\desktop\n0690641\nucleusgl_3\MyCode.h(163): warning C4091: 'typedef ': ignored on left of 'InterpStruct' when no variable is declared
+MyCode.cpp(109): warning C4305: '+=': truncation from 'double' to 'float'
+MyCode.cpp(112): warning C4305: '-=': truncation from 'double' to 'float'
+MyCode.cpp(115): warning C4305: '+=': truncation from 'double' to 'float'
+MyCode.cpp(118): warning C4305: '-=': truncation from 'double' to 'float'
+MyCode.cpp(121): warning C4305: '+=': truncation from 'double' to 'float'
+MyCode.cpp(124): warning C4305: '-=': truncation from 'double' to 'float'
+MyCode.cpp(135): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+MyCode.cpp(136): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+MyCode.cpp(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+MyCode.cpp(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+MyCode.cpp(210): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+MyCode.cpp(426): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+MyCode.cpp(521): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MyCode.cpp(526): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MyCode.cpp(643): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+MyCode.cpp(647): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+MyCode.cpp(651): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+MyCode.cpp(675): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+MyCode.cpp(753): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+MyCode.cpp(757): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+MyCode.cpp(761): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+MyCode.cpp(805): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+MyCode.cpp(817): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+MyCode.cpp(877): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+MyCode.cpp(889): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+MyCode.cpp(949): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+MyCode.cpp(961): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+MyCode.cpp(1021): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+MyCode.cpp(1033): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  NucleusGL.vcxproj -> C:\Users\samal\Desktop\n0690641\NucleusGL_3\Debug\NucleusGL.exe
+  NucleusGL.vcxproj -> C:\Users\samal\Desktop\n0690641\NucleusGL_3\Debug\NucleusGL.pdb (Full PDB)
